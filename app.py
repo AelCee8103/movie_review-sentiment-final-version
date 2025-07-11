@@ -1,5 +1,7 @@
-import streamlit as st
+
 import joblib
+import streamlit as st
+
 
 # Dictionary of model names and their file paths
 model_files = {
